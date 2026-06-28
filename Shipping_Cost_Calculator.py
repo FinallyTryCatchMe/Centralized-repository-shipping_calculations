@@ -1,4 +1,3 @@
-# Here is another update by Markus Fuchs
 # Here is a new update by Markus Fuchs
 # Shipping Cost Calculator
 
