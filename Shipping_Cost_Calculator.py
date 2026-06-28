@@ -1,4 +1,4 @@
-# Here is a new update by Markus Fuchs
+# Here is a new update by Markus Fuchs 1
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
